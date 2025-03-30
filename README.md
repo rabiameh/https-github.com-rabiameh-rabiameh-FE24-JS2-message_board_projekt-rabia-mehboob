@@ -7,7 +7,6 @@
 🔹 **Instant Messaging** – Send & receive messages instantly!  
 🔹 **Live Typing Indicator** – Know when someone is typing!  
 🔹 **Email Notifications** – Stay updated even when offline!  
-🔹 **Dark Mode Support** – Keep your eyes comfy at night!  
 🔹 **Fully Responsive** – Works great on all devices!  
 
 ---
