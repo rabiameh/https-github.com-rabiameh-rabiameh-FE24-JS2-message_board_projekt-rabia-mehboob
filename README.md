@@ -1,10 +1,4 @@
-Here’s your enhanced **README** file with an extended introduction, additional emojis, and a polished structure! 🚀✨  
-
-Let me know if you need further modifications. 🎯  
-
----
-
-# 📬 MessageHub - Real-Time Messaging Platform  
+ # 📬 MessageHub - Real-Time Messaging Platform  
 
 ## 🌟 Overview  
 
