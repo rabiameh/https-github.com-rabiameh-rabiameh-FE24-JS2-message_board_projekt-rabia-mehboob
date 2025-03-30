@@ -55,7 +55,7 @@
 
 ### 1️⃣ Clone the Repository  
 ```sh
-git clone https://github.com/yourusername/message-board.git
+git clone https://github.com/rabiameh/https-github.com-rabiameh-rabiameh-FE24-JS2-message_board_projekt-rabia-mehboob.git
 cd message-board
 ```
 
