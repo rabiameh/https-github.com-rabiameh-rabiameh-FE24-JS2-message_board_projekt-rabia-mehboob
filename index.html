@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MessageHub | Public Board</title>
+    <link rel="stylesheet" href="styles/main.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-firestore-compat.js"></script>
+  </head>
+  <body>
+    <header class="main-header">
+      <div class="header-container">
+        <h1 class="logo">MessageHub</h1>
+        <nav class="main-nav">
+          <ul>
+            <li><a href="index.html" class="active">Home</a></li>
+            <li><a href="contacts.html">Contacts</a></li>
+            <li><a href="about.html">About</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main class="message-board-container">
+      <div class="status-bar">
+        <div id="firebase-status">
+          <i class="fas fa-circle-notch fa-spin"></i> Connecting...
+        </div>
+        <div class="message-count">0 messages</div>
+      </div>
+      <form id="message-form" class="message-form">
+        <div class="input-group">
+          <input
+            type="text"
+            id="author-input"
+            placeholder="Your name"
+            value="Anonymous"
+          />
+          <input
+            type="text"
+            id="message-input"
+            placeholder="Write your message..."
+            required
+          />
+          <button type="submit" class="send-button">
+            <i class="fas fa-paper-plane"></i> Send
+          </button>
+        </div>
+        <div id="post-status" class="post-status"></div>
+      </form>
+      <div id="typing-indicator" class="typing-indicator">
+        <div class="typing-content">
+          <span class="typing-dots"></span>
+          <span class="typing-text">Someone is typing...</span>
+        </div>
+      </div>
+      <div class="message-list" id="message-container"></div>
+    </main>
+
+    <script src="scripts/app.js" type="module"></script>
+  </body>
+</html>
