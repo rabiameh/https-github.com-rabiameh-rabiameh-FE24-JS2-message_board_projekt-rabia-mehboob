@@ -44,9 +44,9 @@
 
 ## 📚 Wiki & Documentation 📖  
 
-🔹 [📜 Wireframes & Message Flow Diagrams](https://github.com/yourusername/message-board/wiki/Wireframes)  
-🔹 [🔧 Firebase Configuration Guide](https://github.com/yourusername/message-board/wiki/Setup)  
-🔹 [🎨 CSS Styling Guide](https://github.com/yourusername/message-board/wiki/Styleguide)  
+🔹 [📜 Wireframes & Message Flow Diagrams](https://github.com/rabiameh/https-github.com-rabiameh-rabiameh-FE24-JS2-message_board_projekt-rabia-mehboob/wiki/Wireframes)  
+🔹 [🔧 Firebase Configuration Guide](https://github.com/rabiameh/https-github.com-rabiameh-rabiameh-FE24-JS2-message_board_projekt-rabia-mehboob/wiki/Setup)  
+🔹 [🎨 CSS Styling Guide](https://github.com/rabiameh/https-github.com-rabiameh-rabiameh-FE24-JS2-message_board_projekt-rabia-mehboob/wiki/Styleguide)  
 🔹 [👥 Contributors List](https://github.com/yourusername/message-board/wiki/Contributors)  
 
 ---
