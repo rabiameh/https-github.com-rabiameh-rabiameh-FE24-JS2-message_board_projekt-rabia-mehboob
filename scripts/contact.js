@@ -8,7 +8,7 @@ document
     const submitBtn = form.querySelector('button[type="submit"]');
     const inputs = form.querySelectorAll("input, textarea");
 
-    const RECEIVER_EMAIL = "fatimahmirza04@gmail.com";
+    const RECEIVER_EMAIL = "rabiamansoor816@gmail.com";
 
     submitBtn.disabled = true;
     statusEl.textContent = "Sending...";
